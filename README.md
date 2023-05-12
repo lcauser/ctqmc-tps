@@ -9,7 +9,7 @@ Here, we update the trajectory of a single spin, using the neighbouring spins to
 
 The second applicaiton is the quantum triangular plaquette model (QTPM),
   ```math
-\hat{H}^{\rm TFIM} = -\sum_{\{i, j, k\}\in\triangle} \hat{X}_{i}\hat{X}_{j}\hat{X}_{k} - J\sum_{i} \hat{Z}_{i}.
+\hat{H}^{\rm QTPM} = -\sum_{\{i, j, k\}\in\triangle} \hat{X}_{i}\hat{X}_{j}\hat{X}_{k} - J\sum_{i} \hat{Z}_{i}.
 ```
 The update scheme we propose here is to update the trajectory of a single plaquette of spins, $\triangle$. Example code can be found in the QTPM subdirectory.
 
