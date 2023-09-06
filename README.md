@@ -14,4 +14,4 @@ The second applicaiton is the quantum triangular plaquette model (QTPM),
 where $\triangle$ denotes all upwards-pointing triangular plaquettes on the triangular lattice.
 The update scheme we propose here is to update the trajectory of a single plaquette of spins, $\triangle$. Example code can be found in the QTPM subdirectory.
 
-Detailed explanations of the methods can be found at **insert arXiv link**.
+Detailed explanations of the methods can be found [here](https://arxiv.org/abs/2305.08935).
