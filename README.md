@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10246029.svg)](https://doi.org/10.5281/zenodo.10246029)
 # Transition path sampling methods for continuous-time quantum monte carlo
 A simple implementation of continuous-time quantum monte carlo, based on local trajectory updates. These updates resample the trajectory of a local spatial degree of freedom while keeping the remainder of the trajectory fixed. This update is exact in the sense it samples the sub-trajectory with a probability consistent with the partition function, making it rejection-free. 
 
